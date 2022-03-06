@@ -1,0 +1,2900 @@
+- id: 1
+  author: 天智天皇
+  yomi:
+    syllable0:
+      kanji: 秋の田の
+      kana: あきのたの
+      display: あきのたの
+      roman: a-ki-no-ta-no
+    syllable1:
+      kanji: かりほの庵の
+      kana: かりほのいおの
+      display: かりほのいほの
+      roman: ka-ri-o-no-i-o-no
+    syllable2:
+      kanji: とまをあらみ
+      kana: とまをあらみ
+      display: とまをあらみ
+      roman: to-ma-wo-a-ra-mi
+  tori:
+    syllable0:
+      kanji: わが衣手は
+      kana: わがころもでは
+      display: わかころもては
+      roman: wa-ga-ko-ro-mo-de-wa
+    syllable1:
+      kanji: 露にぬれつつ
+      kana: つゆにぬれつつ
+      display: つゆにぬれつつ
+      roman: tsu-yu-ni-nu-re-tsu-tsu
+- id: 2
+  author: 持統天皇
+  yomi:
+    syllable0:
+      kanji: 春すぎて
+      kana: はるすぎて
+      display: はるすきて
+      roman: ha-ru-su-gi-te
+    syllable1:
+      kanji: 夏きにけらし
+      kana: なつきにけらし
+      display: なつきにけらし
+      roman: na-tsu-ki-ni-ke-ra-shi
+    syllable2:
+      kanji: 白妙の
+      kana: しろたへの
+      display: しろたへの
+      roman: shi-ro-ta-e-no
+  tori:
+    syllable0:
+      kanji: 衣干すてふ
+      kana: ころもほすてふ
+      display: ころもほすてふ
+      roman: ko-ro-mo-ho-su-cho-o
+    syllable1:
+      kanji: 天のかぐ山
+      kana: あまのかぐやま
+      display: あまのかくやま
+      roman: a-ma-no-ka-gu-ya-ma
+- id: 3
+  author: 柿本人麻呂
+  yomi:
+    syllable0:
+      kanji: 足曳の
+      kana: あしびきの
+      display: あしひきの
+      roman: a-shi-bi-ki-no
+    syllable1:
+      kanji: 山鳥の尾の
+      kana: やまどりのをの
+      display: やまとりのをの
+      roman: ya-ma-do-ri-no-wo-no
+    syllable2:
+      kanji: しだり尾の
+      kana: しだりをの
+      display: したりをの
+      roman: shi-da-ri-wo-no
+  tori:
+    syllable0:
+      kanji: 長々し夜を
+      kana: ながながしよを
+      display: なかなかしよを
+      roman: na-ga-na-ga-shi-yo-wo
+    syllable1:
+      kanji: 獨りかも寝む
+      kana: ひとりかもねむ
+      display: ひとりかもねむ
+      roman: hi-to-ri-ka-mo-ne-mu
+- id: 4
+  author: 山部赤人
+  yomi:
+    syllable0:
+      kanji: 田子の浦に
+      kana: たごのうらに
+      display: たこのうらに
+      roman: ta-go-no-u-ra-ni
+    syllable1:
+      kanji: うち出て見れば
+      kana: うちいでてみれば
+      display: うちいててみれは
+      roman: u-chi-i-de-te-mi-re-ba
+    syllable2:
+      kanji: 白妙の
+      kana: しろたへの
+      display: しろたへの
+      roman: shi-ro-ta-e-no
+  tori:
+    syllable0:
+      kanji: 富士の高嶺に
+      kana: ふじのたかねに
+      display: ふしのたかねに
+      roman: fu-ji-no-ta-ka-ne-ni
+    syllable1:
+      kanji: 雪は降りつつ
+      kana: ゆきはふりつつ
+      display: ゆきはふりつつ
+      roman: yu-ki-wa-fu-ri-tsu-tsu
+- id: 5
+  author: 猿丸大夫
+  yomi:
+    syllable0:
+      kanji: 奥山に
+      kana: おくやまに
+      display: おくやまに
+      roman: o-ku-ya-ma-ni
+    syllable1:
+      kanji: 紅葉踏み分け
+      kana: もみぢふみわけ
+      display: もみちふみわけ
+      roman: mo-mi-ji-fu-mi-wa-ke
+    syllable2:
+      kanji: 鳴く鹿の
+      kana: なくしかの
+      display: なくしかの
+      roman: na-ku-shi-ka-no
+  tori:
+    syllable0:
+      kanji: 聲きく時ぞ
+      kana: こゑきくときぞ
+      display: こゑきくときそ
+      roman: ko-e-ki-ku-to-ki-zo
+    syllable1:
+      kanji: 秋はかなしき
+      kana: あきはかなしき
+      display: あきはかなしき
+      roman: a-ki-wa-ka-na-shi-ki
+- id: 6
+  author: 中納言家持
+  yomi:
+    syllable0:
+      kanji: 鵲の
+      kana: かささぎの
+      display: かささきの
+      roman: ka-sa-sa-gi-no
+    syllable1:
+      kanji: 渡せる橋に
+      kana: わたせるはしに
+      display: わたせるはしに
+      roman: wa-ta-se-ru-ha-shi-ni
+    syllable2:
+      kanji: おく霜の
+      kana: おくしもの
+      display: おくしもの
+      roman: o-ku-shi-mo-no
+  tori:
+    syllable0:
+      kanji: 白きを見れば
+      kana: しろきをみれば
+      display: しろきをみれは
+      roman: shi-ro-ki-o-mi-re-ba
+    syllable1:
+      kanji: 夜ぞ更けにける
+      kana: よぞふけにける
+      display: よそふけにける
+      roman: yo-zo-fu-ke-ni-ke-ru
+- id: 7
+  author: 安倍仲麿
+  yomi:
+    syllable0:
+      kanji: 天の原
+      kana: あまのはら
+      display: あまのはら
+      roman: a-ma-no-ha-ra
+    syllable1:
+      kanji: ふりさけ見れば
+      kana: ふりさけみれば
+      display: ふりさけみれは
+      roman: fu-ri-sa-ke-mi-re-ba
+    syllable2:
+      kanji: 春日なる
+      kana: かすがなる
+      display: かすかなる
+      roman: ka-su-ga-na-ru
+  tori:
+    syllable0:
+      kanji: 三笠の山に
+      kana: みかさのやまに
+      display: みかさのやまに
+      roman: mi-ka-sa-no-ya-ma-ni
+    syllable1:
+      kanji: 出でし月かも
+      kana: いでしつきかも
+      display: いてしつきかも
+      roman: i-de-shi-tsu-ki-ka-mo
+- id: 8
+  author: 喜撰法師
+  yomi:
+    syllable0:
+      kanji: わが庵は
+      kana: わがいほは
+      display: わかいほは
+      roman: wa-ga-i-o-wa
+    syllable1:
+      kanji: 都のたつみ
+      kana: みやこのたつみ
+      display: みやこのたつみ
+      roman: mi-ya-ko-no-ta-tsu-mi
+    syllable2:
+      kanji: しかぞ住む
+      kana: しかぞすむ
+      display: しかそすむ
+      roman: shi-ka-zo-su-mu
+  tori:
+    syllable0:
+      kanji: 世をうぢ山と
+      kana: よをうぢやまと
+      display: よをうちやまと
+      roman: yo-o-u-ji-ya-ma-to
+    syllable1:
+      kanji: 人はいふなり
+      kana: ひとはいふなり
+      display: ひとはいふなり
+      roman: hi-to-wa-i-u-na-ri
+- id: 9
+  author: 小野小町
+  yomi:
+    syllable0:
+      kanji: 花の色は
+      kana: はなのいろは
+      display: はなのいろは
+      roman: ha-na-no-i-ro-wa
+    syllable1:
+      kanji: 移りにけりな
+      kana: うつりにけりな
+      display: うつりにけりな
+      roman: u-tsu-ri-ni-ke-ri-na
+    syllable2:
+      kanji: いたづらに
+      kana: いたづらに
+      display: いたつらに
+      roman: i-ta-zu-ra-ni
+  tori:
+    syllable0:
+      kanji: わが身世にふる
+      kana: わがみよにふる
+      display: わかみよにふる
+      roman: wa-ga-mi-yo-ni-fu-ru
+    syllable1:
+      kanji: ながめせしまに
+      kana: ながめせしまに
+      display: なかめせしまに
+      roman: na-ga-me-se-shi-ma-ni
+- id: 10
+  author: 蟬丸
+  yomi:
+    syllable0:
+      kanji: 是れやこの
+      kana: これやこの
+      display: これやこの
+      roman: ko-re-ya-ko-no
+    syllable1:
+      kanji: 行くもかへるも
+      kana: ゆくもかへるも
+      display: ゆくもかへるも
+      roman: yu-ku-mo-ka-e-ru-mo
+    syllable2:
+      kanji: 別れては
+      kana: わかれては
+      display: わかれては
+      roman: wa-ka-re-te-wa
+  tori:
+    syllable0:
+      kanji: 知るも知らぬも
+      kana: しるもしらぬも
+      display: しるもしらぬも
+      roman: shi-ru-mo-shi-ra-nu-mo
+    syllable1:
+      kanji: 逢坂の關
+      kana: あふさかのせき
+      display: あふさかのせき
+      roman: o-o-sa-ka-no-se-ki
+- id: 11
+  author: 參議篁
+  yomi:
+    syllable0:
+      kanji: わたのはら
+      kana: わたのはら
+      display: わたのはら
+      roman: wa-ta-no-ha-ra
+    syllable1:
+      kanji: 八十島かけて
+      kana: やそしまかけて
+      display: やそしまかけて
+      roman: ya-so-shi-ma-ka-ke-te
+    syllable2:
+      kanji: こぎ出でぬと
+      kana: こぎいでぬと
+      display: こきいてぬと
+      roman: ko-gi-i-de-nu-to
+  tori:
+    syllable0:
+      kanji: 人には告げよ
+      kana: ひとにはつげよ
+      display: ひとにはつけよ
+      roman: hi-to-ni-wa-tsu-ge-yo
+    syllable1:
+      kanji: あまの釣船
+      kana: あまのつりぶね
+      display: あまのつりふね
+      roman: a-ma-no-tsu-ri-bu-ne
+- id: 12
+  author: 僧正遍昭
+  yomi:
+    syllable0:
+      kanji: 天津風
+      kana: あまつかぜ
+      display: あまつかせ
+      roman: a-ma-tsu-ka-ze
+    syllable1:
+      kanji: 雲の通路
+      kana: くものかよいじ
+      display: くものかよいし
+      roman: ya-so-shi-ma-ka-ke-te
+    syllable2:
+      kanji: ふきとぢよ
+      kana: ふきとぢよ
+      display: ふきとちよ
+      roman: fu-ki-to-ji-yo
+  tori:
+    syllable0:
+      kanji: をとめの姿
+      kana: をとめのすがた
+      display: をとめのすかた
+      roman: wo-to-me-no-su-ga-ta
+    syllable1:
+      kanji: しばしとどめむ
+      kana: しばしとどめむ
+      display: しはしととめむ
+      roman: shi-ba-shi-to-do-me-mu
+- id: 13
+  author: 陽成院
+  yomi:
+    syllable0:
+      kanji: 筑波嶺の
+      kana: つくばねの
+      display: つくはねの
+      roman: tsu-ku-ba-ne-no
+    syllable1:
+      kanji: みねより落つる
+      kana: みねよりおつる
+      display: みねよりおつる
+      roman: mi-ne-yo-ri-o-tsu-ru
+    syllable2:
+      kanji: みなの川
+      kana: みなのがは
+      display: みなのかは
+      roman: mi-na-no-ga-wa
+  tori:
+    syllable0:
+      kanji: 戀ぞつもりて
+      kana: こひぞつもりて
+      display: こひそつもりて
+      roman: ko-i-zo-tsu-mo-ri-te
+    syllable1:
+      kanji: 淵となりぬる
+      kana: ふちとなりぬる
+      display: ふちとなりぬる
+      roman: fu-chi-to-na-ri-nu-ru
+- id: 14
+  author: 河原左大臣
+  yomi:
+    syllable0:
+      kanji: 陸奥の
+      kana: みちのくの
+      display: みちのくの
+      roman: mi-chi-no-ku-no
+    syllable1:
+      kanji: しのぶもぢずり
+      kana: しのぶもぢずり
+      display: しのふもちすり
+      roman: shi-no-bu-mo-ji-zu-ri
+    syllable2:
+      kanji: 誰故に
+      kana: たれゆゑに
+      display: たれゆゑに
+      roman: ta-re-yu-e-ni
+  tori:
+    syllable0:
+      kanji: 亂れそめにし
+      kana: みだれそめにし
+      display: みたれそめにし
+      roman: mi-da-re-so-me-ni-shi
+    syllable1:
+      kanji: われならなくに
+      kana: われならなくに
+      display: われならなくに
+      roman: wa-re-na-ra-na-ku-ni
+- id: 15
+  author: 光孝天皇
+  yomi:
+    syllable0:
+      kanji: 君がため
+      kana: きみがため
+      display: きみかため
+      roman: ki-mi-ga-ta-me
+    syllable1:
+      kanji: はるの野に出でて
+      kana: はるののにいでて
+      display: はるののにいてて
+      roman: ha-ru-no-no-ni-i-de-te
+    syllable2:
+      kanji: 若菜つむ
+      kana: わかなつむ
+      display: わかなつむ
+      roman: wa-ka-na-tsu-mu
+  tori:
+    syllable0:
+      kanji: わが衣手に
+      kana: わがころもでに
+      display: わかころもてに
+      roman: wa-ga-ko-ro-mo-de-ni
+    syllable1:
+      kanji: 雪はふりつつ
+      kana: ゆきはふりつつ
+      display: ゆきはふりつつ
+      roman: yu-ki-wa-fu-ri-tsu-tsu
+- id: 16
+  author: 中納言行平
+  yomi:
+    syllable0:
+      kanji: 立ち別れ
+      kana: たちわかれ
+      display: たちわかれ
+      roman: ta-chi-wa-ka-re
+    syllable1:
+      kanji: いなばの山の
+      kana: いなばのやまの
+      display: いなはのやまの
+      roman: i-na-ba-no-ya-ma-no
+    syllable2:
+      kanji: 峯に生ふる
+      kana: みねにおふる
+      display: みねにおふる
+      roman: mi-ne-ni-o-u-ru
+  tori:
+    syllable0:
+      kanji: まつとしきかば
+      kana: まつとしきかば
+      display: まつとしきかは
+      roman: ma-tsu-to-shi-ki-ka-ba
+    syllable1:
+      kanji: 今かへりこむ
+      kana: いまかへりこむ
+      display: いまかへりこむ
+      roman: i-ma-ka-e-ri-ko-mu
+- id: 17
+  author: 在原業平朝臣
+  yomi:
+    syllable0:
+      kanji: 千早振る
+      kana: ちはやぶる
+      display: ちはやふる
+      roman: chi-ha-ya-bu-ru
+    syllable1:
+      kanji: 神代もきかず
+      kana: かみよもきかず
+      display: かみよもきかす
+      roman: ka-mi-yo-mo-ki-ka-zu
+    syllable2:
+      kanji: 竜田川
+      kana: たつたがわ
+      display: たつたかわ
+      roman: ta-tsu-ta-ga-wa
+  tori:
+    syllable0:
+      kanji: から紅に
+      kana: からくれなゐに
+      display: からくれなゐに
+      roman: ka-ra-ku-re-na-i-ni
+    syllable1:
+      kanji: 水くくるとは
+      kana: みづくくるとは
+      display: みすくくるとは
+      roman: mi-zu-ku-ku-ru-to-wa
+- id: 18
+  author: 藤原敏行朝臣
+  yomi:
+    syllable0:
+      kanji: 住の江の
+      kana: すみのえの
+      display: すみのえの
+      roman: su-mi-no-e-no
+    syllable1:
+      kanji: 岸に寄る波
+      kana: きしによるなみ
+      display: きしによるなみ
+      roman: ki-shi-ni-yo-ru-na-mi
+    syllable2:
+      kanji: よるさへや
+      kana: よるさへや
+      display: よるさへや
+      roman: yo-ru-sa-e-ya
+  tori:
+    syllable0:
+      kanji: 夢の通ひ路
+      kana: ゆめのかよひぢ
+      display: ゆめのかよひち
+      roman: yu-me-no-ka-yo-i-ji
+    syllable1:
+      kanji: 人めよくらむ
+      kana: ひとめよくらむ
+      display: ひとめよくらむ
+      roman: hi-to-me-yo-ku-ra-mu
+- id: 19
+  author: 伊勢
+  yomi:
+    syllable0:
+      kanji: 難波がた
+      kana: なにはがた
+      display: なにはかた
+      roman: na-ni-wa-ga-ta
+    syllable1:
+      kanji: 短き蘆の
+      kana: みじかきあしの
+      display: みしかきあしの
+      roman: mi-ji-ka-ki-a-shi-no
+    syllable2:
+      kanji: ふしの間も
+      kana: ふしのまも
+      display: ふしのまも
+      roman: fu-shi-no-ma-mo
+  tori:
+    syllable0:
+      kanji: 逢はで此世を
+      kana: あはでこのよを
+      display: あはてこのよを
+      roman: a-wa-de-ko-no-yo-wo
+    syllable1:
+      kanji: すぐしてよとや
+      kana: すぐしてよとや
+      display: すくしてよとや
+      roman: su-gu-shi-te-yo-to-ya
+- id: 20
+  author: 元良親王
+  yomi:
+    syllable0:
+      kanji: 侘ぬれば
+      kana: わびぬれば
+      display: わひぬれは
+      roman: wa-bi-nu-re-ba
+    syllable1:
+      kanji: 今はたおなじ
+      kana: いまはたおなじ
+      display: いまはたおなし
+      roman: i-ma-ha-ta-o-na-ji
+    syllable2:
+      kanji: なにはなる
+      kana: なにはなる
+      display: なにはなる
+      roman: na-ni-wa-na-ru
+  tori:
+    syllable0:
+      kanji: みをつくしても
+      kana: みをつくしても
+      display: みをつくしても
+      roman: mi-wo-tsu-ku-shi-te-mo
+    syllable1:
+      kanji: あはむとぞ思ふ
+      kana: あはむとぞおもふ
+      display: あはむとそおもふ
+      roman: a-wa-mu-to-zo-o-mo-u
+- id: 21
+  author: 素性法師
+  yomi:
+    syllable0:
+      kanji: 今来むと
+      kana: いまこむと
+      display: いまこむと
+      roman: i-ma-ko-mu-to
+    syllable1:
+      kanji: いひしばかりに
+      kana: いひしばかりに
+      display: いひしはかりに
+      roman: i-i-shi-ba-ka-ri-ni
+    syllable2:
+      kanji: 長月の
+      kana: ながつきの
+      display: なかつきの
+      roman: na-ga-tsu-ki-no
+  tori:
+    syllable0:
+      kanji: 有明の月を
+      kana: ありあけのつきを
+      display: ありあけのつきを
+      roman: a-ri-a-ke-no-tsu-ki-wo
+    syllable1:
+      kanji: 待出でつるかな
+      kana: まちいでつるかな
+      display: まちいてつるかな
+      roman: ma-chi-i-de-tsu-ru-ka-na
+- id: 22
+  author: 文屋康秀
+  yomi:
+    syllable0:
+      kanji: 吹くからに
+      kana: ふくからに
+      display: ふくからに
+      roman: fu-ku-ka-ra-ni
+    syllable1:
+      kanji: 秋の草木の
+      kana: あきのくさきの
+      display: あきのくさきの
+      roman: a-ki-no-ku-sa-ki-no
+    syllable2:
+      kanji: しをるれば
+      kana: しをるれば
+      display: しをるれは
+      roman: shi-wo-ru-re-ba
+  tori:
+    syllable0:
+      kanji: むべ山風を
+      kana: むべやまかぜを
+      display: むへやまかせを
+      roman: mu-be-ya-ma-ka-ze-wo
+    syllable1:
+      kanji: 嵐と云ふらむ
+      kana: あらしといふらむ
+      display: あらしといふらむ
+      roman: a-ra-shi-to-i-u-ra-mu
+- id: 23
+  author: 大江千里
+  yomi:
+    syllable0:
+      kanji: 月見れば
+      kana: つきみれば
+      display: つきみれは
+      roman: tsu-ki-mi-re-ba
+    syllable1:
+      kanji: 千々に物こそ
+      kana: ちぢにものこそ
+      display: ちちにものこそ
+      roman: chi-ji-ni-mo-no-ko-so
+    syllable2:
+      kanji: 悲しけれ
+      kana: かなしけれ
+      display: かなしけれ
+      roman: ka-na-shi-ke-re
+  tori:
+    syllable0:
+      kanji: わが身一つの
+      kana: わがみひとつの
+      display: わかみひとつの
+      roman: wa-ga-mi-hi-to-tsu-no
+    syllable1:
+      kanji: 秋にはあらねど
+      kana: あきにはあらねど
+      display: あきにはあらねと
+      roman: a-ki-ni-wa-a-ra-ne-do
+- id: 24
+  author: 菅家
+  yomi:
+    syllable0:
+      kanji: 此の度は
+      kana: このたびは
+      display: このたひは
+      roman: ko-no-ta-bi-wa
+    syllable1:
+      kanji: ぬさも取りあへず
+      kana: ぬさもとりあへず
+      display: ぬさもとりあへす
+      roman: nu-sa-mo-to-ri-a-e-zu
+    syllable2:
+      kanji: 手向山
+      kana: たむけやま
+      display: たむけやま
+      roman: ta-mu-ke-ya-ma
+  tori:
+    syllable0:
+      kanji: 紅葉のにしき
+      kana: もみぢのにしき
+      display: もみちのにしき
+      roman: mo-mi-ji-no-ni-shi-ki
+    syllable1:
+      kanji: 神のまにまに
+      kana: かみのまにまに
+      display: かみのまにまに
+      roman: ka-mi-no-ma-ni-ma-ni
+- id: 25
+  author: 三條右大臣
+  yomi:
+    syllable0:
+      kanji: 名にしおはば
+      kana: なにしおはば
+      display: なにしおはは
+      roman: na-ni-shi-o-wa-ba
+    syllable1:
+      kanji: 逢坂山の
+      kana: あふさかやまの
+      display: あふさかやまの
+      roman: o-o-sa-ka-ya-ma-no
+    syllable2:
+      kanji: さねかづら
+      kana: さねかづら
+      display: さねかつら
+      roman: sa-ne-ka-tsu-ra
+  tori:
+    syllable0:
+      kanji: 人に知られで
+      kana: ひとにしられで
+      display: ひとにしられて
+      roman: hi-to-ni-shi-ra-re-de
+    syllable1:
+      kanji: くるよしもがな
+      kana: くるよしもがな
+      display: くるよしもかな
+      roman: ku-ru-yo-shi-mo-ga-na
+- id: 26
+  author: 貞信公
+  yomi:
+    syllable0:
+      kanji: 小倉山
+      kana: をぐらやま
+      display: をくらやま
+      roman: wo-gu-ra-ya-ma
+    syllable1:
+      kanji: 峯のもみぢ葉
+      kana: みねのもみぢば
+      display: みねのもみちは
+      roman: mi-ne-no-mo-mi-ji-ba
+    syllable2:
+      kanji: 心あらば
+      kana: こころあらば
+      display: こころあらは
+      roman: ko-ko-ro-a-ra-ba
+  tori:
+    syllable0:
+      kanji: 今一度の
+      kana: いまひとたびの
+      display: いまひとたひの
+      roman: i-ma-hi-to-ta-bi-no
+    syllable1:
+      kanji: みゆきまたなむ
+      kana: みゆきまたなむ
+      display: みゆきまたなむ
+      roman: mi-yu-ki-ma-ta-na-mu
+- id: 27
+  author: 中納言兼輔
+  yomi:
+    syllable0:
+      kanji: みかの原
+      kana: みかのはら
+      display: みかのはら
+      roman: mi-ka-no-ha-ra
+    syllable1:
+      kanji: わきてながるる
+      kana: わきてながるる
+      display: わきてなかるる
+      roman: wa-ki-te-na-ga-ru-ru
+    syllable2:
+      kanji: いづみ川
+      kana: いづみがは
+      display: いつみかは
+      roman: i-zu-mi-ga-wa
+  tori:
+    syllable0:
+      kanji: いつみきとてか
+      kana: いつみきとてか
+      display: いつみきとてか
+      roman: i-tsu-mi-ki-to-te-ka
+    syllable1:
+      kanji: 戀しかるらむ
+      kana: こひしかるらむ
+      display: こひしかるらむ
+      roman: ko-i-shi-ka-ru-ra-mu
+- id: 28
+  author: 源宗于朝臣
+  yomi:
+    syllable0:
+      kanji: 山里は
+      kana: やまざとは
+      display: やまさとは
+      roman: ya-ma-za-to-wa
+    syllable1:
+      kanji: 冬ぞ寂しさ
+      kana: ふゆぞさびしさ
+      display: ふゆそさひしさ
+      roman: fu-yu-zo-sa-bi-shi-sa
+    syllable2:
+      kanji: まさりける
+      kana: まさりける
+      display: まさりける
+      roman: ma-sa-ri-ke-ru
+  tori:
+    syllable0:
+      kanji: 人めも草も
+      kana: ひとめもくさも
+      display: ひとめもくさも
+      roman: hi-to-me-mo-ku-sa-mo
+    syllable1:
+      kanji: かれぬと思へば
+      kana: かれぬとおもへば
+      display: かれぬとおもへは
+      roman: ka-re-nu-to-o-mo-e-ba
+- id: 29
+  author: 凡河内躬恒
+  yomi:
+    syllable0:
+      kanji: 心あてに
+      kana: こころあてに
+      display: こころあてに
+      roman: ko-ko-ro-a-te-ni
+    syllable1:
+      kanji: をらばやをらむ
+      kana: をらばやをらむ
+      display: をらはやをらむ
+      roman: wo-ra-ba-ya-wo-ra-mu
+    syllable2:
+      kanji: はつしもの
+      kana: はつしもの
+      display: はつしもの
+      roman: ha-tsu-shi-mo-no
+  tori:
+    syllable0:
+      kanji: 置きまどはせる
+      kana: おきまどはせる
+      display: おきまとはせる
+      roman: o-ki-ma-do-wa-se-ru
+    syllable1:
+      kanji: 白菊のはな
+      kana: しらぎくのはな
+      display: しらきくのはな
+      roman: shi-ra-gi-ku-no-ha-na
+- id: 30
+  author: 壬生忠岑
+  yomi:
+    syllable0:
+      kanji: 有明の
+      kana: ありあけの
+      display: ありあけの
+      roman: a-ri-a-ke-no
+    syllable1:
+      kanji: つれなく見えし
+      kana: つれなくみえし
+      display: つれなくみえし
+      roman: tsu-re-na-ku-mi-e-shi
+    syllable2:
+      kanji: 別れより
+      kana: わかれより
+      display: わかれより
+      roman: wa-ka-re-yo-ri
+  tori:
+    syllable0:
+      kanji: 暁ばかり
+      kana: あかつきばかり
+      display: あかつきはかり
+      roman: a-ka-tsu-ki-ba-ka-ri
+    syllable1:
+      kanji: うきものはなし
+      kana: うきものはなし
+      display: うきものはなし
+      roman: u-ki-mo-no-wa-na-shi
+- id: 31
+  author: 坂上是則
+  yomi:
+    syllable0:
+      kanji: 朝ぼらけ
+      kana: あさぼらけ
+      display: あさほらけ
+      roman: a-sa-bo-ra-ke
+    syllable1:
+      kanji: 有明の月と
+      kana: ありあけのつきと
+      display: ありあけのつきと
+      roman: a-ri-a-ke-no-tsu-ki-to
+    syllable2:
+      kanji: 見るまでに
+      kana: みるまでに
+      display: みるまてに
+      roman: mi-ru-ma-de-ni
+  tori:
+    syllable0:
+      kanji: よしのの里に
+      kana: よしののさとに
+      display: よしののさとに
+      roman: yo-shi-no-no-sa-to-ni
+    syllable1:
+      kanji: 降れる白雪
+      kana: ふれるしらゆき
+      display: ふれるしらゆき
+      roman: fu-re-ru-shi-ra-yu-ki
+- id: 32
+  author: 春道列樹
+  yomi:
+    syllable0:
+      kanji: 山川に
+      kana: やまがはに
+      display: やまかはに
+      roman: ya-ma-ga-wa-ni
+    syllable1:
+      kanji: 風のかけたる
+      kana: かぜのかけたる
+      display: かせのかけたる
+      roman: ka-ze-no-ka-ke-ta-ru
+    syllable2:
+      kanji: 柵は
+      kana: しがらみは
+      display: しからみは
+      roman: shi-ga-ra-mi-wa
+  tori:
+    syllable0:
+      kanji: 流れもあへぬ
+      kana: ながれもあへぬ
+      display: なかれもあへぬ
+      roman: na-ga-re-mo-a-e-nu
+    syllable1:
+      kanji: 紅葉なりけり
+      kana: もみぢなりけり
+      display: もみちなりけり
+      roman: mo-mi-ji-na-ri-ke-ri
+- id: 33
+  author: 紀友則
+  yomi:
+    syllable0:
+      kanji: 久方の
+      kana: ひさかたの
+      display: ひさかたの
+      roman: hi-sa-ka-ta-no
+    syllable1:
+      kanji: 光のどけき
+      kana: ひかりのどけき
+      display: ひかりのとけき
+      roman: hi-ka-ri-no-do-ke-ki
+    syllable2:
+      kanji: 春の日に
+      kana: はるのひに
+      display: はるのひに
+      roman: ha-ru-no-hi-ni
+  tori:
+    syllable0:
+      kanji: しづ心なく
+      kana: しづこころなく
+      display: しつこころなく
+      roman: shi-zu-ko-ko-ro-na-ku
+    syllable1:
+      kanji: 花の散るらむ
+      kana: はなのちるらむ
+      display: はなのちるらむ
+      roman: ha-na-no-chi-ru-ra-mu
+- id: 34
+  author: 藤原興風
+  yomi:
+    syllable0:
+      kanji: 誰をかも
+      kana: たれをかも
+      display: たれをかも
+      roman: ta-re-wo-ka-mo
+    syllable1:
+      kanji: しる人にせむ
+      kana: しるひとにせむ
+      display: しるひとにせむ
+      roman: shi-ru-hi-to-ni-se-mu
+    syllable2:
+      kanji: 高砂の
+      kana: たかさごの
+      display: たかさこの
+      roman: ta-ka-sa-go-no
+  tori:
+    syllable0:
+      kanji: 松も昔の
+      kana: まつもむかしの
+      display: まつもむかしの
+      roman: ma-tsu-mo-mu-ka-shi-no
+    syllable1:
+      kanji: 友ならなくに
+      kana: ともならなくに
+      display: ともならなくに
+      roman: to-mo-na-ra-na-ku-ni
+- id: 35
+  author: 紀貫之
+  yomi:
+    syllable0:
+      kanji: 人はいさ
+      kana: ひとはいさ
+      display: ひとはいさ
+      roman: hi-to-wa-i-sa
+    syllable1:
+      kanji: 心も知らず
+      kana: こころもしらず
+      display: こころもしらす
+      roman: ko-ko-ro-mo-shi-ra-zu
+    syllable2:
+      kanji: ふるさとは
+      kana: ふるさとは
+      display: ふるさとは
+      roman: fu-ru-sa-to-wa
+  tori:
+    syllable0:
+      kanji: 花ぞ昔の
+      kana: はなぞむかしの
+      display: はなそむかしの
+      roman: ha-na-so-mu-ka-shi-no
+    syllable1:
+      kanji: 香に匂ひける
+      kana: かににほひける
+      display: かににほひける
+      roman: ka-ni-ni-o-i-ke-ru
+- id: 36
+  author: 清原深養父
+  yomi:
+    syllable0:
+      kanji: 夏の夜は
+      kana: なつのよは
+      display: なつのよは
+      roman: na-tsu-no-yo-wa
+    syllable1:
+      kanji: まだ宵ながら
+      kana: まだよひながら
+      display: またよひなから
+      roman: ko-ko-ro-mo-shi-ra-zu
+    syllable2:
+      kanji: 明けぬるを
+      kana: あけぬるを
+      display: あけぬるを
+      roman: a-ke-nu-ru-wo
+  tori:
+    syllable0:
+      kanji: 雲のいづこに
+      kana: くものいづこに
+      display: くものいつこに
+      roman: ku-mo-no-i-zu-ko-ni
+    syllable1:
+      kanji: 月やどるらむ
+      kana: つきやどるらむ
+      display: つきやとるらむ
+      roman: tsu-ki-ya-do-ru-ra-mu
+- id: 37
+  author: 文屋朝康
+  yomi:
+    syllable0:
+      kanji: 白露に
+      kana: しらつゆに
+      display: しらつゆに
+      roman: shi-ra-tsu-yu-ni
+    syllable1:
+      kanji: 風の吹きしく
+      kana: かぜのふきしく
+      display: かせのふきしく
+      roman: ka-ze-no-fu-ki-shi-ku
+    syllable2:
+      kanji: 秋の野は
+      kana: あきののは
+      display: あきののは
+      roman: a-ki-no-no-wa
+  tori:
+    syllable0:
+      kanji: つらぬきとめぬ
+      kana: つらぬきとめぬ
+      display: つらぬきとめぬ
+      roman: tsu-ra-nu-ki-to-me-nu
+    syllable1:
+      kanji: 玉ぞ散りける
+      kana: たまぞちりける
+      display: たまそちりける
+      roman: ta-ma-zo-chi-ri-ke-ru
+- id: 38
+  author: 右近
+  yomi:
+    syllable0:
+      kanji: 忘らるる
+      kana: わすらるる
+      display: わすらるる
+      roman: wa-su-ra-ru-ru
+    syllable1:
+      kanji: 身をば思はず
+      kana: みをばおもはず
+      display: みをはおもはす
+      roman: mi-wo-ba-o-mo-wa-zu
+    syllable2:
+      kanji: ちかひてし
+      kana: ちかひてし
+      display: ちかいてし
+      roman: chi-ka-i-te-shi
+  tori:
+    syllable0:
+      kanji: 人の命の
+      kana: ひとのいのちの
+      display: ひとのいのちの
+      roman: hi-to-no-i-no-chi-no
+    syllable1:
+      kanji: をしくもあるかな
+      kana: をしくもあるかな
+      display: をしくもあるかな
+      roman: wo-shi-ku-mo-a-ru-ka-na
+- id: 39
+  author: 參議等
+  yomi:
+    syllable0:
+      kanji: 浅ぢふの
+      kana: あさぢふの
+      display: あさちふの
+      roman: a-sa-ji-u-no
+    syllable1:
+      kanji: をのの篠原
+      kana: をののしのはら
+      display: をののしのはら
+      roman: wo-no-no-shi-no-ha-ra
+    syllable2:
+      kanji: しのぶれど
+      kana: しのぶれど
+      display: しのふれと
+      roman: shi-no-bu-re-do
+  tori:
+    syllable0:
+      kanji: あまりてなどか
+      kana: あまりてなどか
+      display: あまりてなとか
+      roman: a-ma-ri-te-na-to-ka
+    syllable1:
+      kanji: 人の戀しき
+      kana: ひとのこひしき
+      display: ひとのこひしき
+      roman: hi-to-no-ko-i-shi-ki
+- id: 40
+  author: 平兼盛
+  yomi:
+    syllable0:
+      kanji: 忍れど
+      kana: しのぶれど
+      display: しのふれと
+      roman: shi-no-bu-re-do
+    syllable1:
+      kanji: 色に出でにけり
+      kana: いろにいでにけり
+      display: いろにいてにけり
+      roman: i-ro-ni-i-de-ni-ke-ri
+    syllable2:
+      kanji: わが戀は
+      kana: わがこひは
+      display: わかこひは
+      roman: wa-ga-ko-i-wa
+  tori:
+    syllable0:
+      kanji: 物や思ふと
+      kana: ものやおもふと
+      display: ものやおもふと
+      roman: mo-no-ya-o-mo-fu-to
+    syllable1:
+      kanji: 人の問ふまで
+      kana: ひとのとふまで
+      display: ひとのとふまて
+      roman: hi-to-no-to-u-ma-de
+- id: 41
+  author: 壬生忠見
+  yomi:
+    syllable0:
+      kanji: 戀すてふ
+      kana: こひすてふ
+      display: こひすてふ
+      roman: ko-i-su-cho-o
+    syllable1:
+      kanji: わが名はまだき
+      kana: わがなはまだき
+      display: わかなはまたき
+      roman: wa-ga-na-ha-ma-da-ki
+    syllable2:
+      kanji: たちにけり
+      kana: たちにけり
+      display: たちにけり
+      roman: ta-chi-ni-ke-ri
+  tori:
+    syllable0:
+      kanji: 人知れずこそ
+      kana: ひとしれずこそ
+      display: ひとしれすこそ
+      roman: hi-to-shi-re-zu-ko-so
+    syllable1:
+      kanji: 思ひそめしか
+      kana: おもひそめしか
+      display: おもひそめしか
+      roman: o-mo-i-so-me-shi-ka
+- id: 42
+  author: 清原元輔
+  yomi:
+    syllable0:
+      kanji: 契りきな
+      kana: ちぎりきな
+      display: ちきりきな
+      roman: chi-gi-ri-ki-na
+    syllable1:
+      kanji: かたみに袖を
+      kana: かたみにそでを
+      display: かたみにそてを
+      roman: ka-ta-mi-ni-so-de-wo
+    syllable2:
+      kanji: しぼりつつ
+      kana: しぼりつつ
+      display: しほりつつ
+      roman: shi-bo-ri-tsu-tsu
+  tori:
+    syllable0:
+      kanji: すゑの松山
+      kana: すゑのまつやま
+      display: すゑのまつやま
+      roman: su-e-no-ma-tsu-ya-ma
+    syllable1:
+      kanji: 波こさじとは
+      kana: なみこさじとは
+      display: なみこさしとは
+      roman: na-mi-ko-sa-ji-to-wa
+- id: 43
+  author: 權中納言敦忠
+  yomi:
+    syllable0:
+      kanji: 逢ひ見ての
+      kana: あひみての
+      display: あひみての
+      roman: a-i-mi-te-no
+    syllable1:
+      kanji: 後の心に
+      kana: のちのこころに
+      display: のちのこころに
+      roman: no-chi-no-ko-ko-ro-ni
+    syllable2:
+      kanji: くらぶれば
+      kana: くらぶれば
+      display: くらふれは
+      roman: ku-ra-bu-re-ba
+  tori:
+    syllable0:
+      kanji: 昔は物を
+      kana: むかしはものを
+      display: むかしはものを
+      roman: mu-ka-shi-wa-mo-no-wo
+    syllable1:
+      kanji: 思はざりけり
+      kana: おもはざりけり
+      display: おもはさりけり
+      roman: o-mo-wa-za-ri-ke-ri
+- id: 44
+  author: 中納言朝忠
+  yomi:
+    syllable0:
+      kanji: 逢ふことの
+      kana: あふことの
+      display: あふことの
+      roman: o-o-ko-to-no
+    syllable1:
+      kanji: 絶えてしなくば
+      kana: たえてしなくば
+      display: たえてしなくは
+      roman: ta-e-te-shi-na-ku-ba
+    syllable2:
+      kanji: なかなかに
+      kana: なかなかに
+      display: なかなかに
+      roman: na-ka-na-ka-ni
+  tori:
+    syllable0:
+      kanji: 人をも身をも
+      kana: ひとをもみをも
+      display: ひとをもみをも
+      roman: hi-to-wo-mo-mi-wo-mo
+    syllable1:
+      kanji: 恨みざらまし
+      kana: うらみざらまし
+      display: うらみさらまし
+      roman: u-ra-mi-za-ra-ma-shi
+- id: 45
+  author: 謙徳公
+  yomi:
+    syllable0:
+      kanji: 哀とも
+      kana: あはれとも
+      display: あはれとも
+      roman: a-wa-re-to-mo
+    syllable1:
+      kanji: いふべき人は
+      kana: いふべきひとは
+      display: いふへきひとは
+      roman: i-u-be-ki-hi-to-wa
+    syllable2:
+      kanji: おもほえで
+      kana: おもほえで
+      display: おもほえて
+      roman: o-mo-o-e-de
+  tori:
+    syllable0:
+      kanji: 身のいたづらに
+      kana: みのいたづらに
+      display: みのいたつらに
+      roman: mi-no-i-ta-zu-ra-ni
+    syllable1:
+      kanji: なりぬべきかな
+      kana: なりぬべきかな
+      display: なりぬへきかな
+      roman: na-ri-nu-be-ki-ka-na
+- id: 46
+  author: 曾禰好忠
+  yomi:
+    syllable0:
+      kanji: 由良の門を
+      kana: ゆらのとを
+      display: ゆらのとを
+      roman: yu-ra-no-to-wo
+    syllable1:
+      kanji: わたる舟人
+      kana: わたるふなびと
+      display: わたるふなひと
+      roman: wa-ta-ru-fu-na-bi-to
+    syllable2:
+      kanji: かぢをたえ
+      kana: かぢをたえ
+      display: かちをたえ
+      roman: ka-ji-wo-ta-e
+  tori:
+    syllable0:
+      kanji: ゆくへも知らぬ
+      kana: ゆくへもしらぬ
+      display: ゆくへもしらぬ
+      roman: yu-ku-e-mo-shi-ra-nu
+    syllable1:
+      kanji: 戀の道かな
+      kana: こひのみちかな
+      display: こひのみちかな
+      roman: ko-i-no-mi-chi-ka-na
+- id: 47
+  author: 恵慶法師
+  yomi:
+    syllable0:
+      kanji: 八重葎
+      kana: やへむぐら
+      display: やへむくら
+      roman: ya-e-mu-gu-ra
+    syllable1:
+      kanji: しげれる宿の
+      kana: しげれるやどの
+      display: しけれるやとの
+      roman: shi-ge-re-ru-ya-do-no
+    syllable2:
+      kanji: さびしきに
+      kana: さびしきに
+      display: さひしきに
+      roman: sa-bi-shi-ki-ni
+  tori:
+    syllable0:
+      kanji: 人こそ見えね
+      kana: ひとこそみえね
+      display: ひとこそみえね
+      roman: hi-to-ko-so-mi-e-ne
+    syllable1:
+      kanji: 秋は來にけり
+      kana: あきはきにけり
+      display: あきはきにけり
+      roman: a-ki-wa-ki-ni-ke-ri
+- id: 48
+  author: 源重之
+  yomi:
+    syllable0:
+      kanji: 風をいたみ
+      kana: かぜをいたみ
+      display: かせをいたみ
+      roman: ka-ze-wo-i-ta-mi
+    syllable1:
+      kanji: 岩うつ波の
+      kana: いはうつなみの
+      display: いはうつなみの
+      roman: i-wa-u-tsu-na-mi-no
+    syllable2:
+      kanji: おのれのみ
+      kana: おのれのみ
+      display: おのれのみ
+      roman: o-no-re-no-mi
+  tori:
+    syllable0:
+      kanji: くだけてものを
+      kana: くだけてものを
+      display: くたけてものを
+      roman: ku-da-ke-te-mo-no-wo
+    syllable1:
+      kanji: 思ふころかな
+      kana: おもふころかな
+      display: おもふころかな
+      roman: o-mo-u-ko-ro-ka-na
+- id: 49
+  author: 大中臣能宣朝臣
+  yomi:
+    syllable0:
+      kanji: 御垣守
+      kana: みかきもり
+      display: みかきもり
+      roman: mi-ka-ki-mo-ri
+    syllable1:
+      kanji: 衛士のたく火の
+      kana: ゑじのたくひの
+      display: ゑしのたくひの
+      roman: e-ji-no-ta-ku-hi-no
+    syllable2:
+      kanji: 夜はもえて
+      kana: よるはもえて
+      display: よるはもえて
+      roman: yo-ru-wa-mo-e-te
+  tori:
+    syllable0:
+      kanji: 晝は消えつつ
+      kana: ひるはきえつつ
+      display: ひるはきえつつ
+      roman: hi-ru-wa-ki-e-tsu-tsu
+    syllable1:
+      kanji: 物をこそ思へ
+      kana: ものをこそおもへ
+      display: ものをこそおもへ
+      roman: mo-no-wo-ko-so-o-mo-e
+- id: 50
+  author: 藤原義孝
+  yomi:
+    syllable0:
+      kanji: 君がため
+      kana: きみがため
+      display: きみかため
+      roman: ki-mi-ga-ta-me
+    syllable1:
+      kanji: 惜しからざりし
+      kana: をしからざりし
+      display: をしからさりし
+      roman: wo-shi-ka-ra-za-ri-shi
+    syllable2:
+      kanji: 命さへ
+      kana: いのちさへ
+      display: いのちさへ
+      roman: i-no-chi-sa-e
+  tori:
+    syllable0:
+      kanji: ながくもがなと
+      kana: ながくもがなと
+      display: なかくもかなと
+      roman: na-ga-ku-mo-ga-na-to
+    syllable1:
+      kanji: 思ひけるかな
+      kana: おもひけるかな
+      display: おもひけるかな
+      roman: o-mo-i-ke-ru-ka-na
+- id: 51
+  author: 藤原実方朝臣
+  yomi:
+    syllable0:
+      kanji: かくとだに
+      kana: かくとだに
+      display: かくとたに
+      roman: ka-ku-to-da-ni
+    syllable1:
+      kanji: えやはいぶきの
+      kana: えやはいぶきの
+      display: えやはいふきの
+      roman: e-ya-wa-i-bu-ki-no
+    syllable2:
+      kanji: さしも草
+      kana: さしもぐさ
+      display: さしもくさ
+      roman: sa-shi-mo-gu-sa
+  tori:
+    syllable0:
+      kanji: さしも知らじな
+      kana: さしもしらじな
+      display: さしもしらしな
+      roman: sa-shi-mo-shi-ra-shi-na
+    syllable1:
+      kanji: もゆるおもひを
+      kana: もゆるおもひを
+      display: もゆるおもひを
+      roman: mo-yu-ru-o-mo-i-wo
+- id: 52
+  author: 藤原道信朝臣
+  yomi:
+    syllable0:
+      kanji: 明ぬれば
+      kana: あけぬれば
+      display: あけぬれは
+      roman: a-ke-nu-re-ba
+    syllable1:
+      kanji: 暮るるものとは
+      kana: くるるものとは
+      display: くるるものとは
+      roman: ku-ru-ru-mo-no-to-wa
+    syllable2:
+      kanji: 知りながら
+      kana: しりながら
+      display: しりなから
+      roman: shi-ri-na-ga-ra
+  tori:
+    syllable0:
+      kanji: 猶恨めしき
+      kana: なほうらめしき
+      display: なほうらめしき
+      roman: na-o-u-ra-me-shi-ki
+    syllable1:
+      kanji: 朝ぼらけかな
+      kana: あさぼらけかな
+      display: あさほらけかな
+      roman: a-sa-bo-ra-ke-ka-na
+- id: 53
+  author: 右大將道綱母
+  yomi:
+    syllable0:
+      kanji: なげきつつ
+      kana: なげきつつ
+      display: なけきつつ
+      roman: na-ge-ki-tsu-tsu
+    syllable1:
+      kanji: 獨りぬる夜の
+      kana: ひとるぬるよの
+      display: ひとりぬるよの
+      roman: hi-to-ri-nu-ru-yo-no
+    syllable2:
+      kanji: あくるまは
+      kana: あくるまは
+      display: あくるまは
+      roman: a-ku-ru-ma-wa
+  tori:
+    syllable0:
+      kanji: いかに久しき
+      kana: いかにひさしき
+      display: いかにひさしき
+      roman: i-ka-ni-hi-sa-shi-ki
+    syllable1:
+      kanji: ものとかはしる
+      kana: ものとかはしる
+      display: ものとかはしる
+      roman: mo-no-to-ka-wa-shi-ru
+- id: 54
+  author: 儀同三司母
+  yomi:
+    syllable0:
+      kanji: 忘れじの
+      kana: わすれじの
+      display: わすれしの
+      roman: wa-su-re-ji-no
+    syllable1:
+      kanji: 行末までは
+      kana: ゆくすゑまでは
+      display: ゆくすゑまては
+      roman: yu-ku-su-e-ma-de-wa
+    syllable2:
+      kanji: かたければ
+      kana: かたければ
+      display: かたけれは
+      roman: ka-ta-ke-re-ba
+  tori:
+    syllable0:
+      kanji: 今日をかぎりの
+      kana: けふをかぎりの
+      display: けふをかきりの
+      roman: kyo-o-wo-ka-gi-ri-no
+    syllable1:
+      kanji: 命ともがな
+      kana: いのちともがな
+      display: いのちともかな
+      roman: i-no-chi-to-mo-ga-na
+- id: 55
+  author: 大納言公任
+  yomi:
+    syllable0:
+      kanji: 滝の音は
+      kana: たきのおとは
+      display: たきのおとは
+      roman: ta-ki-no-o-to-wa
+    syllable1:
+      kanji: 絶えて久しく
+      kana: たえてひさしく
+      display: たえてひさしく
+      roman: ta-e-te-hi-sa-shi-ku
+    syllable2:
+      kanji: なりぬれど
+      kana: なりぬれど
+      display: なりぬれと
+      roman: na-ri-nu-re-do
+  tori:
+    syllable0:
+      kanji: 名こそ流れて
+      kana: なこそながれて
+      display: なこそなかれて
+      roman: na-ko-so-na-ga-re-te
+    syllable1:
+      kanji: 猶聞こえけれ
+      kana: なほきこえけれ
+      display: なほきこえけれ
+      roman: na-o-ki-ko-e-ke-re
+- id: 56
+  author: 和泉式部
+  yomi:
+    syllable0:
+      kanji: あらざらむ
+      kana: あらざらむ
+      display: あらさらむ
+      roman: a-ra-za-ra-mu
+    syllable1:
+      kanji: 此世の外の
+      kana: このよのほかの
+      display: このよのほかの
+      roman: ko-no-yo-no-ho-ka-no
+    syllable2:
+      kanji: 思ひ出に
+      kana: おもひでに
+      display: おもひてに
+      roman: o-mo-i-de-ni
+  tori:
+    syllable0:
+      kanji: 今ひとたびの
+      kana: いまひとたびの
+      display: いまひとたひの
+      roman: i-ma-hi-to-ta-bi-no
+    syllable1:
+      kanji: 逢ふ事もがな
+      kana: あふこともがな
+      display: あふこともかな
+      roman: o-o-ko-to-mo-ga-na
+- id: 57
+  author: 紫式部
+  yomi:
+    syllable0:
+      kanji: 巡りあひて
+      kana: めぐりあひて
+      display: めくりあひて
+      roman: me-gu-ri-a-i-te
+    syllable1:
+      kanji: 見しや夫とも
+      kana: みしやそれとも
+      display: みしやそれとも
+      roman: mi-shi-ya-so-re-to-mo
+    syllable2:
+      kanji: わかぬまに
+      kana: わかぬまに
+      display: わかぬまに
+      roman: wa-ka-nu-ma-ni
+  tori:
+    syllable0:
+      kanji: 雲がくれにし
+      kana: くもがくれにし
+      display: くもかくれにし
+      roman: ku-mo-ga-ku-re-ni-shi
+    syllable1:
+      kanji: 夜半の月かな
+      kana: よはのつきかな
+      display: よはのつきかな
+      roman: yo-wa-no-tsu-ki-ka-na
+- id: 58
+  author: 大貳三位
+  yomi:
+    syllable0:
+      kanji: 有馬山
+      kana: ありまやま
+      display: ありまやま
+      roman: a-ri-ma-ya-ma
+    syllable1:
+      kanji: ゐなの笹原
+      kana: ゐなのささはら
+      display: ゐなのささはら
+      roman: i-na-no-sa-sa-ha-ra
+    syllable2:
+      kanji: 風ふけば
+      kana: かぜふけば
+      display: かせふけは
+      roman: ka-ze-fu-ke-ba
+  tori:
+    syllable0:
+      kanji: いでそよ人を
+      kana: いでそよひとを
+      display: いてそよひとを
+      roman: i-de-so-yo-hi-to-wo
+    syllable1:
+      kanji: 忘れやはする
+      kana: わすれやはする
+      display: わすれやはする
+      roman: wa-su-re-ya-wa-su-ru
+- id: 59
+  author: 赤染衛門
+  yomi:
+    syllable0:
+      kanji: 安らはで
+      kana: やすらはで
+      display: やすらはて
+      roman: ya-su-ra-wa-de
+    syllable1:
+      kanji: 寝なましものを
+      kana: ねなましものを
+      display: ねなましものを
+      roman: ne-na-ma-shi-mo-no-wo
+    syllable2:
+      kanji: 小夜更けて
+      kana: さよふけて
+      display: さよふけて
+      roman: sa-yo-fu-ke-te
+  tori:
+    syllable0:
+      kanji: かたぶくまでの
+      kana: かたぶくまでの
+      display: かたふくまての
+      roman: ka-ta-bu-ku-ma-de-no
+    syllable1:
+      kanji: 月を見しかな
+      kana: つきをみしかな
+      display: つきをみしかな
+      roman: tsu-ki-wo-mi-shi-ka-na
+- id: 60
+  author: 小式部内侍
+  yomi:
+    syllable0:
+      kanji: 大江山
+      kana: おほへやま
+      display: おほへやま
+      roman: o-o-e-ya-ma
+    syllable1:
+      kanji: いく野の道の
+      kana: いくののみちの
+      display: いくののみちの
+      roman: i-ku-no-no-mi-chi-no
+    syllable2:
+      kanji: 遠ければ
+      kana: とほければ
+      display: とほけれは
+      roman: to-o-ke-re-ba
+  tori:
+    syllable0:
+      kanji: まだ文も見ず
+      kana: まだふみもみず
+      display: またふみもみす
+      roman: ma-da-fu-mi-mo-mi-zu
+    syllable1:
+      kanji: 天のはし立て
+      kana: あまのはしだて
+      display: あまのはしたて
+      roman: a-ma-no-ha-shi-da-te
+- id: 61
+  author: 伊勢大輔
+  yomi:
+    syllable0:
+      kanji: いにしへの
+      kana: いにしへの
+      display: いにしへの
+      roman: i-ni-shi-e-no
+    syllable1:
+      kanji: 奈良の都の
+      kana: ならのみやこの
+      display: ならのみやこの
+      roman: na-ra-no-mi-ya-ko-no
+    syllable2:
+      kanji: 八重櫻
+      kana: やへざくら
+      display: やへさくら
+      roman: ya-e-za-ku-ra
+  tori:
+    syllable0:
+      kanji: けふ九重に
+      kana: けふここのへに
+      display: けふここのへに
+      roman: kyo-o-ko-ko-no-e-ni
+    syllable1:
+      kanji: 匂ひぬるかな
+      kana: にほひぬるかな
+      display: にほひぬるかな
+      roman: ni-o-i-nu-ru-ka-na
+- id: 62
+  author: 清少納言
+  yomi:
+    syllable0:
+      kanji: 夜をこめて
+      kana: よをこめて
+      display: よをこめて
+      roman: yo-wo-ko-me-te
+    syllable1:
+      kanji: 鳥の空音に
+      kana: とりのそらねは
+      display: とりのそらねは
+      roman: to-ri-no-so-ra-ne-wa
+    syllable2:
+      kanji: はかるとも
+      kana: はかるとも
+      display: はかるとも
+      roman: ha-ka-ru-to-mo
+  tori:
+    syllable0:
+      kanji: 世に逢坂の
+      kana: よにあふさかの
+      display: よにあふさかの
+      roman: yo-ni-o-o-sa-ka-no
+    syllable1:
+      kanji: 關はゆるさじ
+      kana: せきはゆるさじ
+      display: せきはゆるさし
+      roman: se-ki-wa-yu-ru-sa-ji
+- id: 63
+  author: 左京大夫道雅
+  yomi:
+    syllable0:
+      kanji: 今はただ
+      kana: いまはただ
+      display: いまはたた
+      roman: i-ma-wa-ta-da
+    syllable1:
+      kanji: 思ひ絶えなむ
+      kana: おもひたえなむ
+      display: おもひたえなむ
+      roman: o-mo-i-ta-e-na-mu
+    syllable2:
+      kanji: とばかりを
+      kana: とばかりを
+      display: とはかりを
+      roman: to-ba-ka-ri-wo
+  tori:
+    syllable0:
+      kanji: 人づてならで
+      kana: ひとづてならで
+      display: ひとつてならて
+      roman: hi-to-zu-te-na-ra-de
+    syllable1:
+      kanji: いふよしもがな
+      kana: いふよしもがな
+      display: いふよしもかな
+      roman: i-u-yo-shi-mo-ga-na
+- id: 64
+  author: 權中納言定頼
+  yomi:
+    syllable0:
+      kanji: 朝ぼらけ
+      kana: あさぼらけ
+      display: あさほらけ
+      roman: a-sa-bo-ra-ke
+    syllable1:
+      kanji: 宇治の川ぎり
+      kana: うぢのかはぎり
+      display: うちのかはきり
+      roman: u-ji-no-ka-wa-gi-ri
+    syllable2:
+      kanji: たえだえに
+      kana: たえだえに
+      display: たえたえに
+      roman: ta-e-da-e-ni
+  tori:
+    syllable0:
+      kanji: あらはれ渡る
+      kana: あらはれわたる
+      display: あらはれわたる
+      roman: a-ra-wa-re-wa-ta-ru
+    syllable1:
+      kanji: 瀬々のあじろぎ
+      kana: せぜのあじろぎ
+      display: せせのあしろき
+      roman: se-ze-no-a-ji-ro-gi
+- id: 65
+  author: 相模
+  yomi:
+    syllable0:
+      kanji: 恨みわび
+      kana: うらみわび
+      display: うらみわひ
+      roman: u-ra-mi-wa-bi
+    syllable1:
+      kanji: ほさぬ袖だに
+      kana: ほさぬそでだに
+      display: ほさぬそてたに
+      roman: ho-sa-nu-so-de-da-ni
+    syllable2:
+      kanji: あるものを
+      kana: あるものを
+      display: あるものを
+      roman: a-ru-mo-no-wo
+  tori:
+    syllable0:
+      kanji: 戀に朽ちなむ
+      kana: こひにくちなむ
+      display: こひにくちなむ
+      roman: ko-i-ni-ku-chi-na-mu
+    syllable1:
+      kanji: 名こそをしけれ
+      kana: なこそをしけれ
+      display: なこそをしけれ
+      roman: na-ko-so-wo-shi-ke-re
+- id: 66
+  author: 前大僧正行尊
+  yomi:
+    syllable0:
+      kanji: もろともに
+      kana: もろともに
+      display: もろともに
+      roman: mo-ro-to-mo-ni
+    syllable1:
+      kanji: あはれと思へ
+      kana: あはれとおもへ
+      display: あはれとおもへ
+      roman: a-wa-re-to-o-mo-e
+    syllable2:
+      kanji: 山櫻
+      kana: やまざくら
+      display: やまさくら
+      roman: ya-ma-za-ku-ra
+  tori:
+    syllable0:
+      kanji: 花より外に
+      kana: はなよりほかに
+      display: はなよりほかに
+      roman: ha-na-yo-ri-ho-ka-ni
+    syllable1:
+      kanji: 知る人もなし
+      kana: しるひともなし
+      display: しるひともなし
+      roman: shi-ru-hi-to-mo-na-shi
+- id: 67
+  author: 周防内侍
+  yomi:
+    syllable0:
+      kanji: 春の夜の
+      kana: はるのよの
+      display: はるのよの
+      roman: ha-ru-no-yo-no
+    syllable1:
+      kanji: 夢ばかりなる
+      kana: ゆめばかりなる
+      display: ゆめばかりなる
+      roman: yu-me-ba-ka-ri-na-ru
+    syllable2:
+      kanji: 手枕に
+      kana: たまくらに
+      display: たまくらに
+      roman: ta-ma-ku-ra-ni
+  tori:
+    syllable0:
+      kanji: かひなく立たむ
+      kana: かひなくたたむ
+      display: かひなくたたむ
+      roman: ka-i-na-ku-ta-ta-mu
+    syllable1:
+      kanji: 名こそをしけれ
+      kana: なこそをしけれ
+      display: なこそをしけれ
+      roman: na-ko-so-wo-shi-ke-re
+- id: 68
+  author: 三條院
+  yomi:
+    syllable0:
+      kanji: 心にも
+      kana: こころにも
+      display: こころにも
+      roman: ko-ko-ro-ni-mo
+    syllable1:
+      kanji: あらでうき世に
+      kana: あらでうきよに
+      display: あらてうきよに
+      roman: a-ra-de-u-ki-yo-ni
+    syllable2:
+      kanji: 長らへば
+      kana: ながらへば
+      display: なからへは
+      roman: na-ga-ra-e-ba
+  tori:
+    syllable0:
+      kanji: 戀しかるべき
+      kana: こひしかるべき
+      display: こひしかるへき
+      roman: ko-i-shi-ka-ru-be-ki
+    syllable1:
+      kanji: 夜半の月かな
+      kana: よはのつきかな
+      display: よはのつきかな
+      roman: yo-wa-no-tsu-ki-ka-na
+- id: 69
+  author: 能因法師
+  yomi:
+    syllable0:
+      kanji: 嵐吹く
+      kana: あらしふく
+      display: あらしふく
+      roman: a-ra-shi-fu-ku
+    syllable1:
+      kanji: 三室の山の
+      kana: みむろのやまの
+      display: みむろのやまの
+      roman: mi-mu-ro-no-ya-ma-no
+    syllable2:
+      kanji: もみぢ葉は
+      kana: もみぢばは
+      display: もみちはは
+      roman: mo-mi-ji-ba-wa
+  tori:
+    syllable0:
+      kanji: 龍田の川の
+      kana: たつたのかはの
+      display: たつたのかはの
+      roman: ta-tsu-ta-no-ka-wa-no
+    syllable1:
+      kanji: にしきなりけり
+      kana: にしきなりけり
+      display: にしきなりけり
+      roman: ni-shi-ki-na-ri-ke-ri
+- id: 70
+  author: 良暹法師
+  yomi:
+    syllable0:
+      kanji: 淋しさに
+      kana: さびしさに
+      display: さひしさに
+      roman: sa-bi-shi-sa-ni
+    syllable1:
+      kanji: 宿を立ち出でて
+      kana: やどをたちいでて
+      display: やとをたちいてて
+      roman: ya-do-wo-ta-chi-i-de-te
+    syllable2:
+      kanji: ながむれば
+      kana: ながむれば
+      display: なかむれは
+      roman: na-ga-mu-re-ba
+  tori:
+    syllable0:
+      kanji: いづこも同じ
+      kana: いづこもおなじ
+      display: いつこもおなし
+      roman: i-zu-ko-mo-o-na-ji
+    syllable1:
+      kanji: 秋のゆふぐれ
+      kana: あきのゆふぐれ
+      display: あきのゆふくれ
+      roman: a-ki-no-yu-u-gu-re
+- id: 71
+  author: 大納言經信
+  yomi:
+    syllable0:
+      kanji: 夕されば
+      kana: ゆふされば
+      display: ゆふされは
+      roman: yu-u-sa-re-ba
+    syllable1:
+      kanji: 門田のいなば
+      kana: かどたのいなば
+      display: かとたのいなは
+      roman: ka-do-ta-no-i-na-ba
+    syllable2:
+      kanji: おとづれて
+      kana: おとづれて
+      display: おとつれて
+      roman: o-to-zu-re-te
+  tori:
+    syllable0:
+      kanji: あしのまろやに
+      kana: あしのまろやに
+      display: あしのまろやに
+      roman: a-shi-no-ma-ro-ya-ni
+    syllable1:
+      kanji: 秋風ぞふく
+      kana: 秋風ぞ吹く
+      display: あきかせそふく
+      roman: a-ki-ka-ze-zo-fu-ku
+- id: 72
+  author: 祐子内親王家紀伊
+  yomi:
+    syllable0:
+      kanji: 音に聞く
+      kana: おとにきく
+      display: おとにきく
+      roman: o-to-ni-ki-ku
+    syllable1:
+      kanji: たかしの濱の
+      kana: たかしのはまの
+      display: たかしのはまの
+      roman: ta-ka-shi-no-ha-ma-no
+    syllable2:
+      kanji: あだ浪は
+      kana: あだなみは
+      display: あたなみは
+      roman: a-da-na-mi-wa
+  tori:
+    syllable0:
+      kanji: かけじや袖の
+      kana: かけじやそでの
+      display: かけしやそての
+      roman: ka-ke-ji-ya-so-de-no
+    syllable1:
+      kanji: ぬれもこそすれ
+      kana: ぬれもこそすれ
+      display: ぬれもこそすれ
+      roman: nu-re-mo-ko-so-su-re
+- id: 73
+  author: 前中納言匡房
+  yomi:
+    syllable0:
+      kanji: 高砂の
+      kana: たかさごの
+      display: たかさこの
+      roman: ta-ka-sa-go-no
+    syllable1:
+      kanji: 尾上の櫻
+      kana: をのへのさくら
+      display: をのへのさくら
+      roman: o-no-e-no-sa-ku-ra
+    syllable2:
+      kanji: 咲きにけり
+      kana: さきにけり
+      display: さきにけり
+      roman: sa-ki-ni-ke-ri
+  tori:
+    syllable0:
+      kanji: 外山の霞
+      kana: とやまのかすみ
+      display: とやまのかすみ
+      roman: to-ya-ma-no-ka-su-mi
+    syllable1:
+      kanji: たたずもあらなむ
+      kana: たたずもあらなむ
+      display: たたすもあらなむ
+      roman: ta-ta-zu-mo-a-ra-na-mu
+- id: 74
+  author: 源俊頼朝臣
+  yomi:
+    syllable0:
+      kanji: 憂かりける
+      kana: うかりける
+      display: うかりける
+      roman: u-ka-ri-ke-ru
+    syllable1:
+      kanji: 人をはつせの
+      kana: ひとをはつせの
+      display: ひとをはつせの
+      roman: hi-to-wo-ha-tsu-se-no
+    syllable2:
+      kanji: 山おろしよ
+      kana: やまおろしよ
+      display: やまおろしよ
+      roman: ya-ma-o-ro-shi-yo
+  tori:
+    syllable0:
+      kanji: はげしかれとは
+      kana: はげしかれとは
+      display: はけしかれとは
+      roman: ha-ge-shi-ka-re-to-wa
+    syllable1:
+      kanji: 祈らぬものを
+      kana: いのらぬものを
+      display: いのらぬものを
+      roman: i-no-ra-nu-mo-no-wo
+- id: 75
+  author: 藤原基俊
+  yomi:
+    syllable0:
+      kanji: 契りきおきし
+      kana: ちぎりおきし
+      display: ちきりおきし
+      roman: chi-gi-ri-o-ki-shi
+    syllable1:
+      kanji: させもが露を
+      kana: させもがつゆを
+      display: させもかつゆを
+      roman: sa-se-mo-ga-tsu-yu-wo
+    syllable2:
+      kanji: 命にて
+      kana: いのちにて
+      display: いのちにて
+      roman: i-no-chi-ni-te
+  tori:
+    syllable0:
+      kanji: あはれ今年の
+      kana: あはれことしの
+      display: あはれことしの
+      roman: a-wa-re-ko-to-shi-no
+    syllable1:
+      kanji: 秋もいぬめり
+      kana: あきもいぬめり
+      display: あきもいぬめり
+      roman: a-ki-mo-i-nu-me-ri
+- id: 76
+  author: 法性寺入道前関白太政大臣
+  yomi:
+    syllable0:
+      kanji: 和田の原
+      kana: わたのはら
+      display: わたのはら
+      roman: wa-ta-no-ha-ra
+    syllable1:
+      kanji: こぎ出でて見れば
+      kana: こぎいでてみれば
+      display: こきいててみれは
+      roman: ko-gi-i-de-te-mi-re-ba
+    syllable2:
+      kanji: 久方の
+      kana: ひさかたの
+      display: ひさかたの
+      roman: hi-sa-ka-ta-no
+  tori:
+    syllable0:
+      kanji: 雲ゐにまがふ
+      kana: くもゐにまがふ
+      display: くもゐにまかふ
+      roman: ku-mo-i-ni-ma-go-o
+    syllable1:
+      kanji: 沖津白なみ
+      kana: おきつしらなみ
+      display: おきつしらなみ
+      roman: o-ki-tsu-shi-ra-na-mi
+- id: 77
+  author: 崇徳院
+  yomi:
+    syllable0:
+      kanji: 瀬をはやみ
+      kana: せをはやみ
+      display: せをはやみ
+      roman: se-wo-ha-ya-mi
+    syllable1:
+      kanji: 岩にせかるる
+      kana: いはにせかるる
+      display: いはにせかるる
+      roman: i-wa-ni-se-ka-ru-ru
+    syllable2:
+      kanji: 瀧川の
+      kana: たきがはの
+      display: たきかはの
+      roman: ta-ki-ga-wa-no
+  tori:
+    syllable0:
+      kanji: われても末に
+      kana: われてもすゑに
+      display: われてもすゑに
+      roman: wa-re-te-mo-su-e-ni
+    syllable1:
+      kanji: あはむとぞ思ふ
+      kana: あはむとぞおもふ
+      display: あはむとそおもふ
+      roman: a-wa-mu-to-zo-o-mo-o
+- id: 78
+  author: 源兼昌
+  yomi:
+    syllable0:
+      kanji: 淡路島
+      kana: あはぢしま
+      display: あはちしま
+      roman: a-wa-ji-shi-ma
+    syllable1:
+      kanji: かよふ千鳥の
+      kana: かよふちどりの
+      display: かよふちとりの
+      roman: ka-yo-o-chi-do-ri-no
+    syllable2:
+      kanji: 鳴く聲の
+      kana: なくこゑの
+      display: なくこゑの
+      roman: na-ku-ko-e-no
+  tori:
+    syllable0:
+      kanji: いく夜ねざめぬ
+      kana: いくよねざめぬ
+      display: いくよねさめぬ
+      roman: i-ku-yo-ne-za-me-nu
+    syllable1:
+      kanji: 須磨の關守
+      kana: すまのせきもり
+      display: すまのせきもり
+      roman: su-ma-no-se-ki-mo-ri
+- id: 79
+  author: 左京大夫顕輔
+  yomi:
+    syllable0:
+      kanji: 秋風に
+      kana: あきかぜに
+      display: あきかせに
+      roman: a-ki-ka-ze-ni
+    syllable1:
+      kanji: 棚引く雲の
+      kana: たなびくくもの
+      display: たなひくくもの
+      roman: ta-na-bi-ku-ku-mo-no
+    syllable2:
+      kanji: 絶間より
+      kana: たえまより
+      display: たえまより
+      roman: ta-e-ma-yo-ri
+  tori:
+    syllable0:
+      kanji: もれ出づる月の
+      kana: もれいづるつきの
+      display: もれいつるつきの
+      roman: mo-re-i-zu-ru-tsu-ki-no
+    syllable1:
+      kanji: 影のさやけさ
+      kana: かげのさやけさ
+      display: かけのさやけさ
+      roman: ka-ge-no-sa-ya-ke-sa
+- id: 80
+  author: 待賢門院堀河
+  yomi:
+    syllable0:
+      kanji: 長からむ
+      kana: ながからむ
+      display: なかからむ
+      roman: na-ga-ka-ra-mu
+    syllable1:
+      kanji: 心もしらず
+      kana: こころもしらず
+      display: こころもしらす
+      roman: ko-ko-ro-mo-shi-ra-zu
+    syllable2:
+      kanji: 黒髪の
+      kana: くろかみの
+      display: くろかみの
+      roman: ku-ro-ka-mi-no
+  tori:
+    syllable0:
+      kanji: みだれて今朝は
+      kana: みだれてけさは
+      display: みたれてけさは
+      roman: mi-da-re-te-ke-sa-wa
+    syllable1:
+      kanji: ものをこそ思へ
+      kana: ものをこそおもへ
+      display: ものをこそおもへ
+      roman: mo-no-wo-ko-so-o-mo-e
+- id: 81
+  author: 後徳大寺左大臣
+  yomi:
+    syllable0:
+      kanji: ほととぎす
+      kana: ほととぎす
+      display: ほとときす
+      roman: ho-to-to-gi-su
+    syllable1:
+      kanji: なきつる方を
+      kana: なきつるかたを
+      display: なきつるかたを
+      roman: na-ki-tsu-ru-ka-ta-wo
+    syllable2:
+      kanji: ながむれば
+      kana: ながむれば
+      display: なかむれは
+      roman: na-ga-mu-re-ba
+  tori:
+    syllable0:
+      kanji: ただ有明の
+      kana: ただありあけの
+      display: たたありあけの
+      roman: ta-da-a-ri-a-ke-no
+    syllable1:
+      kanji: 月ぞ残れる
+      kana: つきぞのこれる
+      display: つきそのこれる
+      roman: tsu-ki-zo-no-ko-re-ru
+- id: 82
+  author: 道因法師
+  yomi:
+    syllable0:
+      kanji: 思ひわび
+      kana: おもひわび
+      display: おもひわひ
+      roman: o-mo-i-wa-bi
+    syllable1:
+      kanji: さても命は
+      kana: さてもいのちは
+      display: さてもいのちは
+      roman: sa-te-mo-i-no-chi-wa
+    syllable2:
+      kanji: ある物を
+      kana: あるものを
+      display: あるものを
+      roman: a-ru-mo-no-wo
+  tori:
+    syllable0:
+      kanji: うきにたへぬは
+      kana: うきにたへぬは
+      display: うきにたへぬは
+      roman: u-ki-ni-ta-e-nu-wa
+    syllable1:
+      kanji: 涙なりけり
+      kana: なみだなりけり
+      display: なみたなりけり
+      roman: na-mi-da-na-ri-ke-ri
+- id: 83
+  author: 皇太后宮大夫俊成
+  yomi:
+    syllable0:
+      kanji: 世の中よ
+      kana: よのなかよ
+      display: よのなかよ
+      roman: yo-no-na-ka-yo
+    syllable1:
+      kanji: 道こそなけれ
+      kana: みちこそなけれ
+      display: みちこそなけれ
+      roman: mi-chi-ko-so-na-ke-re
+    syllable2:
+      kanji: 思ひ入る
+      kana: おもひいる
+      display: おもひいる
+      roman: o-mo-i-i-ru
+  tori:
+    syllable0:
+      kanji: 山の奥にも
+      kana: やまのおくにも
+      display: やまのおくにも
+      roman: ya-ma-no-o-ku-ni-mo
+    syllable1:
+      kanji: 鹿ぞなくなる
+      kana: しかぞなくなる
+      display: しかそなくなる
+      roman: shi-ka-zo-na-ku-na-ru
+- id: 84
+  author: 藤原清輔朝臣
+  yomi:
+    syllable0:
+      kanji: 永らへば
+      kana: ながらへば
+      display: なからへは
+      roman: na-ga-ra-e-ba
+    syllable1:
+      kanji: また此頃や
+      kana: またこのごろや
+      display: またこのころや
+      roman: ma-ta-ko-no-go-ro-ya
+    syllable2:
+      kanji: しのばれむ
+      kana: しのばれむ
+      display: しのはれむ
+      roman: shi-no-ba-re-mu
+  tori:
+    syllable0:
+      kanji: うしと見し世ぞ
+      kana: うしとみしよぞ
+      display: うしとみしよそ
+      roman: u-shi-to-mi-shi-yo-zo
+    syllable1:
+      kanji: 今は戀しき
+      kana: いまはこひしき
+      display: いまはこひしき
+      roman: i-ma-wa-ko-i-shi-ki
+- id: 85
+  author: 俊恵法師
+  yomi:
+    syllable0:
+      kanji: 夜もすがら
+      kana: よもすがら
+      display: よもすから
+      roman: yo-mo-su-ga-ra
+    syllable1:
+      kanji: 物思ふころは
+      kana: ものおもふころは
+      display: ものおもふころは
+      roman: mo-no-o-mo-o-ko-ro-wa
+    syllable2:
+      kanji: 明けやらで
+      kana: あけやらで
+      display: あけやらて
+      roman: a-ke-ya-ra-de
+  tori:
+    syllable0:
+      kanji: 閨の隙さへ
+      kana: ねやのひまさへ
+      display: ねやのひまさへ
+      roman: ne-ya-no-hi-ma-sa-e
+    syllable1:
+      kanji: つれなかりけり
+      kana: つれなかりけり
+      display: つれなかりけり
+      roman: tsu-re-na-ka-ri-ke-ri
+- id: 86
+  author: 西行法師
+  yomi:
+    syllable0:
+      kanji: 嘆けとて
+      kana: なげけとて
+      display: なけけとて
+      roman: na-ge-ke-to-te
+    syllable1:
+      kanji: 月やはものを
+      kana: つきやはものを
+      display: つきやはものを
+      roman: tsu-ki-ya-wa-mo-no-wo
+    syllable2:
+      kanji: 思はする
+      kana: おもはする
+      display: おもはする
+      roman: o-mo-wa-su-ru
+  tori:
+    syllable0:
+      kanji: かこち顔なる
+      kana: かこちがほなる
+      display: かこちかほなる
+      roman: ka-ko-chi-ga-o-na-ru
+    syllable1:
+      kanji: わが涙かな
+      kana: わがなみだかな
+      display: わかなみたかな
+      roman: wa-ga-na-mi-da-ka-na
+- id: 87
+  author: 寂蓮法師
+  yomi:
+    syllable0:
+      kanji: 村雨の
+      kana: むらさめの
+      display: むらさめの
+      roman: mu-ra-sa-me-no
+    syllable1:
+      kanji: 露もまだひぬ
+      kana: つゆもまだひぬ
+      display: つゆもまたひぬ
+      roman: tsu-yu-mo-ma-da-i-nu
+    syllable2:
+      kanji: まきの葉に
+      kana: まきのはに
+      display: まきのはに
+      roman: ma-ki-no-ha-ni
+  tori:
+    syllable0:
+      kanji: 霧たちのぼる
+      kana: きりたちのぼる
+      display: きりたちのほる
+      roman: ki-ri-ta-chi-no-bo-ru
+    syllable1:
+      kanji: 秋の夕ぐれ
+      kana: あきのゆふぐれ
+      display: あきのゆふくれ
+      roman: a-ki-no-yu-u-gu-re
+- id: 88
+  author: 皇嘉門院別当
+  yomi:
+    syllable0:
+      kanji: 難波江の
+      kana: なにはえの
+      display: なにはえの
+      roman: na-ni-wa-e-no
+    syllable1:
+      kanji: 蘆のかり寝の
+      kana: あしのかりねの
+      display: あしのかりねの
+      roman: a-shi-no-ka-ri-ne-no
+    syllable2:
+      kanji: ひと夜ゆゑ
+      kana: ひとよゆゑ
+      display: ひとよゆゑ
+      roman: hi-to-yo-yu-e
+  tori:
+    syllable0:
+      kanji: 身を盡てや
+      kana: みをつくしてや
+      display: みをつくしてや
+      roman: mi-wo-tsu-ku-shi-te-ya
+    syllable1:
+      kanji: 戀わたるべき
+      kana: こひわたるべき
+      display: こひわたるへき
+      roman: ko-i-wa-ta-ru-be-ki
+- id: 89
+  author: 式子内親王
+  yomi:
+    syllable0:
+      kanji: 玉の緒よ
+      kana: たまのをよ
+      display: たまのをよ
+      roman: ta-ma-no-wo-yo
+    syllable1:
+      kanji: たえねばたえね
+      kana: たえねばたえね
+      display: たえねはたえね
+      roman: ta-e-ne-ba-ta-e-ne
+    syllable2:
+      kanji: 永らへば
+      kana: ながらへば
+      display: なからへは
+      roman: na-ga-ra-e-ba
+  tori:
+    syllable0:
+      kanji: 忍ぶる事の
+      kana: しのぶることの
+      display: しのふることの
+      roman: shi-no-bu-ru-ko-to-no
+    syllable1:
+      kanji: よわりもぞする
+      kana: よわりもぞする
+      display: よわりもそする
+      roman: yo-wa-ri-mo-zo-su-ru
+- id: 90
+  author: 殷富門院大輔
+  yomi:
+    syllable0:
+      kanji: 見せばやな
+      kana: みせばやな
+      display: みせはやな
+      roman: mi-se-ba-ya-na
+    syllable1:
+      kanji: 雄島のあまの
+      kana: をじまのあまの
+      display: をしまのあまの
+      roman: wo-ji-ma-no-a-ma-no
+    syllable2:
+      kanji: 袖だにも
+      kana: そでだにも
+      display: そてたにも
+      roman: so-de-da-ni-mo
+  tori:
+    syllable0:
+      kanji: 濡れにぞぬれし
+      kana: ぬれにぞぬれし
+      display: ぬれにそぬれし
+      roman: nu-re-ni-zo-nu-re-shi
+    syllable1:
+      kanji: 色はかはらず
+      kana: いろはかはらず
+      display: いろはかはらす
+      roman: i-ro-wa-ka-wa-ra-zu
+- id: 91
+  author: 後京極摂政前太政大臣
+  yomi:
+    syllable0:
+      kanji: きりぎりす
+      kana: きりぎりす
+      display: きりきりす
+      roman: ki-ri-gi-ri-su
+    syllable1:
+      kanji: なくや霜夜の
+      kana: なくやしもよの
+      display: なくやしもよの
+      roman: na-ku-ya-shi-mo-yo-no
+    syllable2:
+      kanji: さむしろに
+      kana: さむしろに
+      display: さむしろに
+      roman: sa-mu-shi-ro-ni
+  tori:
+    syllable0:
+      kanji: 衣かたしき
+      kana: ころもかたしき
+      display: ころもかたしき
+      roman: ko-ro-mo-ka-ta-shi-ki
+    syllable1:
+      kanji: 獨りかもねむ
+      kana: ひとりかもねむ
+      display: ひとりかもねむ
+      roman: hi-to-ri-ka-mo-ne-mu
+- id: 92
+  author: 二條院讃岐
+  yomi:
+    syllable0:
+      kanji: わがそでは
+      kana: わがそでは
+      display: わかそては
+      roman: wa-ga-so-de-wa
+    syllable1:
+      kanji: 潮干に見えぬ
+      kana: しほひにみえぬ
+      display: しほひにみえぬ
+      roman: shi-o-i-ni-mi-e-nu
+    syllable2:
+      kanji: 沖の石の
+      kana: おきのいしの
+      display: おきのいしの
+      roman: o-ki-no-i-shi-no
+  tori:
+    syllable0:
+      kanji: 人こそしらね
+      kana: ひとこそしらね
+      display: ひとこそしらね
+      roman: hi-to-ko-so-shi-ra-ne
+    syllable1:
+      kanji: かわく間もなし
+      kana: かわくまもなし
+      display: かわくまもなし
+      roman: ka-wa-ku-ma-mo-na-shi
+- id: 93
+  author: 鎌倉右大臣
+  yomi:
+    syllable0:
+      kanji: 世の中は
+      kana: よのなかは
+      display: よのなかは
+      roman: yo-no-na-ka-wa
+    syllable1:
+      kanji: 常にもがもな
+      kana: つねにもがもな
+      display: つねにもかもな
+      roman: tsu-ne-ni-mo-ga-mo-na
+    syllable2:
+      kanji: 渚漕ぐ
+      kana: なぎさこぐ
+      display: なきさこく
+      roman: na-gi-sa-ko-gu
+  tori:
+    syllable0:
+      kanji: 海士の小舟の
+      kana: あまのをぶねの
+      display: あまのをふねの
+      roman: a-ma-no-wo-bu-ne-no
+    syllable1:
+      kanji: 綱でかなしも
+      kana: つなでかなしも
+      display: つなてかなしも
+      roman: tsu-na-de-ka-na-shi-mo
+- id: 94
+  author: 參議雅經
+  yomi:
+    syllable0:
+      kanji: みよし野の
+      kana: みよしのの
+      display: みよしのの
+      roman: mi-yo-shi-no-no
+    syllable1:
+      kanji: 山の秋風
+      kana: やまのあきかぜ
+      display: やまのあきかせ
+      roman: ya-ma-no-a-ki-ka-ze
+    syllable2:
+      kanji: 小夜更けて
+      kana: さよふけて
+      display: さよふけて
+      roman: sa-yo-fu-ke-te
+  tori:
+    syllable0:
+      kanji: ふる郷さむく
+      kana: ふるさとさむく
+      display: ふるさとさむく
+      roman: fu-ru-sa-to-sa-mu-ku
+    syllable1:
+      kanji: 衣うつなり
+      kana: ころもうつなり
+      display: ころもうつなり
+      roman: ko-ro-mo-u-tsu-na-ri
+- id: 95
+  author: 前大僧正慈円
+  yomi:
+    syllable0:
+      kanji: おほけなく
+      kana: おほけなく
+      display: おほけなく
+      roman: o-o-ke-na-ku
+    syllable1:
+      kanji: 浮世の民に
+      kana: うきよのたみに
+      display: うきよのたみに
+      roman: u-ki-yo-no-ta-mi-ni
+    syllable2:
+      kanji: おほふかな
+      kana: おほふかな
+      display: おほふかな
+      roman: o-o-o-ka-na
+  tori:
+    syllable0:
+      kanji: わがたつ杣に
+      kana: わがたつそまに
+      display: わかたつそまに
+      roman: wa-ga-ta-tsu-so-ma-ni
+    syllable1:
+      kanji: 墨染の袖
+      kana: すみぞめのそで
+      display: すみそめのそて
+      roman: su-mi-zo-me-no-so-de
+- id: 96
+  author: 入道前太政大臣
+  yomi:
+    syllable0:
+      kanji: 花さそふ
+      kana: はなさそふ
+      display: はなさそふ
+      roman: ha-na-sa-so-o
+    syllable1:
+      kanji: 嵐の庭の
+      kana: あらしのにはの
+      display: あらしのにはの
+      roman: a-ra-shi-no-ni-wa-no
+    syllable2:
+      kanji: 雪ならで
+      kana: ゆきならで
+      display: ゆきならて
+      roman: yu-ki-na-ra-de
+  tori:
+    syllable0:
+      kanji: ふりゆくものは
+      kana: ふりゆくものは
+      display: ふりゆくものは
+      roman: fu-ri-yu-ku-mo-no-wa
+    syllable1:
+      kanji: わが身なりけり
+      kana: わがみなりけり
+      display: わかみなりけり
+      roman: wa-ga-mi-na-ri-ke-ri
+- id: 97
+  author: 權中納言定家
+  yomi:
+    syllable0:
+      kanji: 來ぬ人を
+      kana: こぬひとを
+      display: こぬひとを
+      roman: ko-nu-hi-to-wo
+    syllable1:
+      kanji: まつほの浦の
+      kana: まつほのうらの
+      display: まつほのうらの
+      roman: ma-tsu-o-no-u-ra-no
+    syllable2:
+      kanji: 夕なぎに
+      kana: ゆふなぎに
+      display: ゆふなきに
+      roman: yu-u-na-gi-ni
+  tori:
+    syllable0:
+      kanji: やくや藻塩の
+      kana: やくやもしほの
+      display: やくやもしほの
+      roman: ya-ku-ya-mo-shi-o-no
+    syllable1:
+      kanji: 身もこがれつつ
+      kana: みもこがれつつ
+      display: みもこかれつつ
+      roman: mi-mo-ko-ga-re-tsu-tsu
+- id: 98
+  author: 従二位家隆
+  yomi:
+    syllable0:
+      kanji: 風そよぐ
+      kana: かぜそよぐ
+      display: かせそよく
+      roman: ka-ze-so-yo-gu
+    syllable1:
+      kanji: ならの小川の
+      kana: ならのをがはの
+      display: ならのをかはの
+      roman: na-ra-no-o-ga-wa-no
+    syllable2:
+      kanji: 夕暮は
+      kana: ゆふぐれは
+      display: ゆふくれは
+      roman: yu-u-gu-re-wa
+  tori:
+    syllable0:
+      kanji: みそぎぞ夏の
+      kana: みそぎぞなつの
+      display: みそきそなつの
+      roman: mi-so-gi-zo-na-tsu-no
+    syllable1:
+      kanji: しるしなりけり
+      kana: しるしなりけり
+      display: しるしなりけり
+      roman: shi-ru-shi-na-ri-ke-ri
+- id: 99
+  author: 後鳥羽院
+  yomi:
+    syllable0:
+      kanji: 人もをし
+      kana: ひともをし
+      display: ひともをし
+      roman: hi-to-mo-wo-shi
+    syllable1:
+      kanji: 人も恨めし
+      kana: ひともうらめし
+      display: ひともうらめし
+      roman: hi-to-mo-u-ra-me-shi
+    syllable2:
+      kanji: 味氣なく
+      kana: あぢきなく
+      display: あちきなく
+      roman: a-ji-ki-na-ku
+  tori:
+    syllable0:
+      kanji: 世を思ふ故に
+      kana: よをおもふゆゑに
+      display: よをおもふゆゑに
+      roman: yo-wo-o-mo-o-yu-e-ni
+    syllable1:
+      kanji: 物おもふ身は
+      kana: ものおもふみは
+      display: ものおもふみは
+      roman: mo-no-o-mo-o-mi-wa
+- id: 100
+  author: 順徳院
+  yomi:
+    syllable0:
+      kanji: 百敷や
+      kana: ももしきや
+      display: ももしきや
+      roman: mo-mo-shi-ki-ya
+    syllable1:
+      kanji: 古き軒端の
+      kana: ふるきのきばの
+      display: ふるきのきはの
+      roman: fu-ru-ki-no-ki-ba-no
+    syllable2:
+      kanji: しのぶにも
+      kana: しのぶにも
+      display: しのふにも
+      roman: shi-no-bu-ni-mo
+  tori:
+    syllable0:
+      kanji: 猶あまりある
+      kana: なほあまりある
+      display: なほあまりある
+      roman: na-o-a-ma-ri-a-ru
+    syllable1:
+      kanji: 昔なりける
+      kana: むかしなりける
+      display: むかしなりける
+      roman: mu-ka-shi-na-ri-ke-ru

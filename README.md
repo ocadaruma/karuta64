@@ -1,2 +1,3 @@
 # karuta64
-Incremental 64-Nin Isshu (hex)
+
+Incremental 64(hex)-Nin Isshu
